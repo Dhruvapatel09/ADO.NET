@@ -1,0 +1,27 @@
+﻿﻿﻿<div id="loader" style="display:none;">
+    <img src="~/images/loaderimage.gif" />
+</div>
+<h1>Modify Employee Details</h1>
+<div id="myValidationSummary" class="text-danger" style="display:none;">
+</div>
+<form id="employeeForm">
+    <input type="hidden" id="EmployeeId" />
+    <div class="form-group">
+        <label for="EmployeeName" class="control-label">Employee Name</label>
+        <input id="EmployeeName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="Employee Designation" class="control-label">Employee Designation</label>
+        <input id="EmployeeDesignation" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="Employee DoB" class="control-label">Employee DoB</label>
+        <input id="EmployeeDOB" class="form-control" />
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Save" class="btn btn-primary" />
+        <a asp-action="Index" class="btn btn-default">Cancel</a>
+    </div>
+</form>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="~/js/employeeEdit.js"></script>

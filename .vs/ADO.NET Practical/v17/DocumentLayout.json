@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\GCET\\SEM 8\\ADO.NET Practical\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C750CBA-9D9B-4EA0-A591-925EC8295AF4}|ADO.NET Client\\ADO.NET Client.csproj|c:\\users\\admin\\desktop\\gcet\\sem 8\\ado.net practical\\ado.net client\\wwwroot\\js\\employeeindex.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0C750CBA-9D9B-4EA0-A591-925EC8295AF4}|ADO.NET Client\\ADO.NET Client.csproj|solutionrelative:ado.net client\\wwwroot\\js\\employeeindex.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C750CBA-9D9B-4EA0-A591-925EC8295AF4}|ADO.NET Client\\ADO.NET Client.csproj|c:\\users\\admin\\desktop\\gcet\\sem 8\\ado.net practical\\ado.net client\\views\\employeeajax\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C750CBA-9D9B-4EA0-A591-925EC8295AF4}|ADO.NET Client\\ADO.NET Client.csproj|solutionrelative:ado.net client\\views\\employeeajax\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C750CBA-9D9B-4EA0-A591-925EC8295AF4}|ADO.NET Client\\ADO.NET Client.csproj|c:\\users\\admin\\desktop\\gcet\\sem 8\\ado.net practical\\ado.net client\\views\\employeeajax\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C750CBA-9D9B-4EA0-A591-925EC8295AF4}|ADO.NET Client\\ADO.NET Client.csproj|solutionrelative:ado.net client\\views\\employeeajax\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C750CBA-9D9B-4EA0-A591-925EC8295AF4}|ADO.NET Client\\ADO.NET Client.csproj|c:\\users\\admin\\desktop\\gcet\\sem 8\\ado.net practical\\ado.net client\\views\\employeeajax\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C750CBA-9D9B-4EA0-A591-925EC8295AF4}|ADO.NET Client\\ADO.NET Client.csproj|solutionrelative:ado.net client\\views\\employeeajax\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C750CBA-9D9B-4EA0-A591-925EC8295AF4}|ADO.NET Client\\ADO.NET Client.csproj|c:\\users\\admin\\desktop\\gcet\\sem 8\\ado.net practical\\ado.net client\\views\\employeeajax\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C750CBA-9D9B-4EA0-A591-925EC8295AF4}|ADO.NET Client\\ADO.NET Client.csproj|solutionrelative:ado.net client\\views\\employeeajax\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C750CBA-9D9B-4EA0-A591-925EC8295AF4}|ADO.NET Client\\ADO.NET Client.csproj|c:\\users\\admin\\desktop\\gcet\\sem 8\\ado.net practical\\ado.net client\\wwwroot\\js\\employeeedit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0C750CBA-9D9B-4EA0-A591-925EC8295AF4}|ADO.NET Client\\ADO.NET Client.csproj|solutionrelative:ado.net client\\wwwroot\\js\\employeeedit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C750CBA-9D9B-4EA0-A591-925EC8295AF4}|ADO.NET Client\\ADO.NET Client.csproj|c:\\users\\admin\\desktop\\gcet\\sem 8\\ado.net practical\\ado.net client\\wwwroot\\js\\employeecreate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0C750CBA-9D9B-4EA0-A591-925EC8295AF4}|ADO.NET Client\\ADO.NET Client.csproj|solutionrelative:ado.net client\\wwwroot\\js\\employeecreate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26878590-EF83-4637-B166-45FD5D8638E2}|ADO.NET Practical\\ADO.NET Practical.csproj|c:\\users\\admin\\desktop\\gcet\\sem 8\\ado.net practical\\ado.net practical\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26878590-EF83-4637-B166-45FD5D8638E2}|ADO.NET Practical\\ADO.NET Practical.csproj|solutionrelative:ado.net practical\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C750CBA-9D9B-4EA0-A591-925EC8295AF4}|ADO.NET Client\\ADO.NET Client.csproj|c:\\users\\admin\\desktop\\gcet\\sem 8\\ado.net practical\\ado.net client\\wwwroot\\js\\employeedetail.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0C750CBA-9D9B-4EA0-A591-925EC8295AF4}|ADO.NET Client\\ADO.NET Client.csproj|solutionrelative:ado.net client\\wwwroot\\js\\employeedetail.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C750CBA-9D9B-4EA0-A591-925EC8295AF4}|ADO.NET Client\\ADO.NET Client.csproj|c:\\users\\admin\\desktop\\gcet\\sem 8\\ado.net practical\\ado.net client\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C750CBA-9D9B-4EA0-A591-925EC8295AF4}|ADO.NET Client\\ADO.NET Client.csproj|solutionrelative:ado.net client\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C750CBA-9D9B-4EA0-A591-925EC8295AF4}|ADO.NET Client\\ADO.NET Client.csproj|c:\\users\\admin\\desktop\\gcet\\sem 8\\ado.net practical\\ado.net client\\controllers\\employeeajax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C750CBA-9D9B-4EA0-A591-925EC8295AF4}|ADO.NET Client\\ADO.NET Client.csproj|solutionrelative:ado.net client\\controllers\\employeeajax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GCET\\SEM 8\\ADO.NET Practical\\ADO.NET Client\\Views\\EmployeeAJAX\\Index.cshtml",
+              "RelativeDocumentMoniker": "ADO.NET Client\\Views\\EmployeeAJAX\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GCET\\SEM 8\\ADO.NET Practical\\ADO.NET Client\\Views\\EmployeeAJAX\\Index.cshtml",
+              "RelativeToolTip": "ADO.NET Client\\Views\\EmployeeAJAX\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T15:59:29.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "employeeCreate.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GCET\\SEM 8\\ADO.NET Practical\\ADO.NET Client\\wwwroot\\js\\employeeCreate.js",
+              "RelativeDocumentMoniker": "ADO.NET Client\\wwwroot\\js\\employeeCreate.js",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GCET\\SEM 8\\ADO.NET Practical\\ADO.NET Client\\wwwroot\\js\\employeeCreate.js",
+              "RelativeToolTip": "ADO.NET Client\\wwwroot\\js\\employeeCreate.js",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAQwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-22T15:29:38.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "employeeEdit.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GCET\\SEM 8\\ADO.NET Practical\\ADO.NET Client\\wwwroot\\js\\employeeEdit.js",
+              "RelativeDocumentMoniker": "ADO.NET Client\\wwwroot\\js\\employeeEdit.js",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GCET\\SEM 8\\ADO.NET Practical\\ADO.NET Client\\wwwroot\\js\\employeeEdit.js",
+              "RelativeToolTip": "ADO.NET Client\\wwwroot\\js\\employeeEdit.js",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwBsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-22T15:14:55.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GCET\\SEM 8\\ADO.NET Practical\\ADO.NET Client\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ADO.NET Client\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GCET\\SEM 8\\ADO.NET Practical\\ADO.NET Client\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ADO.NET Client\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAABMAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T15:11:14.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "employeeIndex.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GCET\\SEM 8\\ADO.NET Practical\\ADO.NET Client\\wwwroot\\js\\employeeIndex.js",
+              "RelativeDocumentMoniker": "ADO.NET Client\\wwwroot\\js\\employeeIndex.js",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GCET\\SEM 8\\ADO.NET Practical\\ADO.NET Client\\wwwroot\\js\\employeeIndex.js",
+              "RelativeToolTip": "ADO.NET Client\\wwwroot\\js\\employeeIndex.js",
+              "ViewState": "AQIAAJUAAAAAAAAAAIAwwHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-22T15:05:30.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "employeedetail.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GCET\\SEM 8\\ADO.NET Practical\\ADO.NET Client\\wwwroot\\js\\employeedetail.js",
+              "RelativeDocumentMoniker": "ADO.NET Client\\wwwroot\\js\\employeedetail.js",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GCET\\SEM 8\\ADO.NET Practical\\ADO.NET Client\\wwwroot\\js\\employeedetail.js",
+              "RelativeToolTip": "ADO.NET Client\\wwwroot\\js\\employeedetail.js",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBMAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-22T14:54:28.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GCET\\SEM 8\\ADO.NET Practical\\ADO.NET Client\\Views\\EmployeeAJAX\\Detail.cshtml",
+              "RelativeDocumentMoniker": "ADO.NET Client\\Views\\EmployeeAJAX\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GCET\\SEM 8\\ADO.NET Practical\\ADO.NET Client\\Views\\EmployeeAJAX\\Detail.cshtml",
+              "RelativeToolTip": "ADO.NET Client\\Views\\EmployeeAJAX\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T14:50:55.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GCET\\SEM 8\\ADO.NET Practical\\ADO.NET Client\\Views\\EmployeeAJAX\\Update.cshtml",
+              "RelativeDocumentMoniker": "ADO.NET Client\\Views\\EmployeeAJAX\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GCET\\SEM 8\\ADO.NET Practical\\ADO.NET Client\\Views\\EmployeeAJAX\\Update.cshtml",
+              "RelativeToolTip": "ADO.NET Client\\Views\\EmployeeAJAX\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T14:50:47.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GCET\\SEM 8\\ADO.NET Practical\\ADO.NET Client\\Views\\EmployeeAJAX\\Create.cshtml",
+              "RelativeDocumentMoniker": "ADO.NET Client\\Views\\EmployeeAJAX\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GCET\\SEM 8\\ADO.NET Practical\\ADO.NET Client\\Views\\EmployeeAJAX\\Create.cshtml",
+              "RelativeToolTip": "ADO.NET Client\\Views\\EmployeeAJAX\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T14:50:00.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeAJAX.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GCET\\SEM 8\\ADO.NET Practical\\ADO.NET Client\\Controllers\\EmployeeAJAX.cs",
+              "RelativeDocumentMoniker": "ADO.NET Client\\Controllers\\EmployeeAJAX.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GCET\\SEM 8\\ADO.NET Practical\\ADO.NET Client\\Controllers\\EmployeeAJAX.cs",
+              "RelativeToolTip": "ADO.NET Client\\Controllers\\EmployeeAJAX.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:48:37.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GCET\\SEM 8\\ADO.NET Practical\\ADO.NET Practical\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ADO.NET Practical\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GCET\\SEM 8\\ADO.NET Practical\\ADO.NET Practical\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "ADO.NET Practical\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwDkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:48:30.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿<div id="loader" style="display:none;">
+    <img src="/images/loaderimage.gif" />
+</div>
+
+<h1>Employees</h1>
+<table id="employeeGrid" class="table">
+    <thead>
+        <tr>
+            <th>Employee Name</th>
+            <th>Employee Designation</th>
+            <th>Employee DOB</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @* Grid will populated dynamically. *@
+
+    </tbody>
+</table>
+
+<a asp-action="Create">Add</a>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="~/js/employeeIndex.js"></script>

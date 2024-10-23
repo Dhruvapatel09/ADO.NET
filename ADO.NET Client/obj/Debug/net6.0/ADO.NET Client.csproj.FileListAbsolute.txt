@@ -1,0 +1,33 @@
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\bin\Debug\net6.0\ADO.NET Client.staticwebassets.runtime.json
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\bin\Debug\net6.0\ADO.NET Client.exe
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\bin\Debug\net6.0\ADO.NET Client.deps.json
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\bin\Debug\net6.0\ADO.NET Client.runtimeconfig.json
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\bin\Debug\net6.0\ADO.NET Client.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\bin\Debug\net6.0\ADO.NET Client.pdb
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\obj\Debug\net6.0\ADO.NET Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\obj\Debug\net6.0\ADO.NET Client.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\obj\Debug\net6.0\ADO.NET Client.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\obj\Debug\net6.0\ADO.NET Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\obj\Debug\net6.0\ADO.NET Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\obj\Debug\net6.0\ADO.NET Client.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\obj\Debug\net6.0\ADO.NET Client.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\obj\Debug\net6.0\staticwebassets\msbuild.ADO.NET Client.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\obj\Debug\net6.0\staticwebassets\msbuild.build.ADO.NET Client.props
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ADO.NET Client.props
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ADO.NET Client.props
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\obj\Debug\net6.0\scopedcss\bundle\ADO.NET Client.styles.css
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\obj\Debug\net6.0\scopedcss\projectbundle\ADO.NET Client.bundle.scp.css
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\obj\Debug\net6.0\ADO.NET Client.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\obj\Debug\net6.0\refint\ADO.NET Client.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\obj\Debug\net6.0\ADO.NET Client.pdb
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\obj\Debug\net6.0\ADO.NET Client.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\obj\Debug\net6.0\ref\ADO.NET Client.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\obj\Debug\net6.0\ADO.NET Client.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\GCET\SEM 8\ADO.NET Practical\ADO.NET Client\obj\Debug\net6.0\ADO.NET .66C90A27.Up2Date

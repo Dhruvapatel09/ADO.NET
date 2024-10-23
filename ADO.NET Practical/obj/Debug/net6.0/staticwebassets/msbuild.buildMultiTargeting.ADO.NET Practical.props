@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ADO.NET Practical.props" />
+</Project>
